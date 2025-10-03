@@ -1,5 +1,5 @@
-# SimpleCalculatorC
 A simple calculator written in C 
+
 
 '''c
 #include <stdio.h>
