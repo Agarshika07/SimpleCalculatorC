@@ -1,7 +1,7 @@
 A simple calculator written in C 
 
 
-'''c
+' ' 'c
 #include <stdio.h>
 int main ()
 {
